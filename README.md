@@ -6,7 +6,7 @@ This repo is part of the 2020-2021 beach litter surveillance project and part of
 
 ### Intended use
 
-This repo is for the analysis of the abundance of anthropogenic litter identified along Swiss rivers and lakes. Completed anlaysis projects are displayed on the hammerdirt! app and the appropriate client app. Analysis is focussed on the quantities of objects found at different locations and will include (but not limited to):
+This repo is for the analysis of the abundance of anthropogenic litter identified along Swiss rivers and lakes. Completed analysis projects are displayed on the hammerdirt! app and the appropriate client app. Analysis is focussed on the quantities of objects found at different locations and will include (but not limited to):
 
 1. Identifying the most common objects found at each location
 2. Identifying the most common objects by material and use
@@ -25,15 +25,15 @@ Follow these steps if you would like to submit a completed analysis or visualisa
 1. Clone the repo
 2. Start a branch titled <yourname_abundance>
 3. In the notebook make sure to change the "save_prefix" value
-4. complete your analysis 
-5. on your local generate .html output of the notebook
-6. send the .html doc to roger@hammerdirt.ch
+4. Complete your analysis 
+5. On your local generate .html output of the notebook
+6. Send the .html doc to roger@hammerdirt.ch
 
 If your analysis makes sense and provides an innovative or original view of the subject we will request the following:
 
 1. A summary of your analysis
 2. References/bibliography 
-3. full contact information 
+3. Full contact information 
 
 __tips:__ Stay on topic. Follow the template model. There are/will be a couple examples to follow in the repo. If you follow that and your analysis makes sense it will be easy for us to generate the document for the application.
 
